@@ -9,7 +9,7 @@ Contact: [https://quber.com.au/#contact](https://quber.com.au/#contact)
 [![Preview](https://img.shields.io/badge/Preview_on-Netlify-brightgreen?logo=netlify)](https://dental-doctor-ujjal.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;[![Live Preview](https://img.shields.io/badge/Live_Preview-Netlify-blue?logo=netlify)](https://dental-doctor-ujjal.netlify.app/)
 
 
-##### To Setup Project Follow `project_setup.txt` documentation
+##### To Setup Project Follow `project_setup.txt` documentatio
 
 ## About The Project
 The `DoctorOnCall` System facilitates patients in scheduling appointments with preferred doctors or Emergency Appointments set up via an online platform.
